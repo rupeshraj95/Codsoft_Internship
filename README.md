@@ -2,5 +2,5 @@
 Hey there! This is Rupesh Raj. Here I uploaded all my Web Development Tasks while doing internship in Codsoft. Check out my work.
 
 ## Calculator
-<a href="https://aashishkrpd.github.io/CODSOFT/Calculator/"><img src="./Thumbnail/Calculator.png" width="50%"></a>
+<a href="https://rupeshraj95.github.io/Codsoft_Internship.github.io/Calculator/"><img src="./Thumbnail/Calculator.png" width="30%"></a>
 
