@@ -28,6 +28,13 @@ background: linear-gradient(90deg, rgba(0,26,36,1) 0%, rgba(74,199,118,1) 35%, r
     box-shadow: 0 -2px 16px rgba(232, 226, 226, 0.2);
 }
 
+@media screen and (max-width:760px) {
+    .calculator{
+        width: 100%;
+        max-width: 495px;
+        max-height: 680px;
+    }
+}
 .display{
     min-height: 150px;
     padding: 0.5rem;
