@@ -8,5 +8,5 @@ Hey there! This is Rupesh Raj. Here I uploaded all my Web Development Tasks whil
 <a href="https://rupeshraj95.github.io/Codsoft_Internship/Landing%20page/"><img src="./Thumbnail/landing_page.png" width="50%"></a>
 
 ## Portfolio 
-<a href="https://rupeshraj95.github.io/Codsoft_Internship/portfolio/"><img src="./Thumbnail/portfolio.png" width="50%"></a>
+<a href="https://rupeshraj95.github.io/Codsoft_Internship/Portfolio/"><img src="./Thumbnail/portfolio.png" width="50%"></a>
 
